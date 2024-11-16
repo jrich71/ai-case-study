@@ -25,7 +25,13 @@
 ## Business Activities
 
 * What specific problem is the company or project trying to solve?
-    - DataSeer is a small AI and Research Data Services company that promotes "Open Science" by [providing](https://dataseer.ai/about/), "low-cost, scalable solutions to measure open science, show researchers how to comply with policy, and deploy just-in-time interventions." One problem is accurately and efficiently advising researchers when and how to comply with open data sharing policies with peer-reviewed journal articles. A solution would reduce the time and costs associated with sharing research data as well as catalyze data and knowledge sharing to build an open science ecosystem. A second problem is the time and labor required for manual peer review of scientific journal articles, which slow the scientific review process in addition to being costly. A solution would be to use tools that automate aspects of the peer-review process (see "automated screening" by [Schultz et al, 2022](https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-022-06080-6)) that highlight key missing data or poorly written narrative, for example, that could help to narrow the focus required by human reviewers. A third problem is that humans may forget to include key information or data along with their research publications (either as supplemental files or within the publications themselves) thereby being non-compliant with policies meant to promote sharing of any and all relevant (and permissible) data. A solution could be to use AI that more ably checks compliance for supplemental files (e.g., datasets, code and software, lab materials, and protocols) and recommends to researchers to correctly include such files prior to any research publication ([Dumanis et al., 2023](https://doi.org/10.1371/journal.pcbi.1011626)).
+    - DataSeer is a small AI and Research Data Services company that promotes "Open Science" by [providing](https://dataseer.ai/about/), "low-cost, scalable solutions to measure open science, show researchers how to comply with policy, and deploy just-in-time interventions." The problems are multi-faceted with factors related to Open Science policy, infrastucture, and workflows ([Iarkaeva et al., 2024](https://doi.org/10.1371/journal.pone.0302787)). More broadly, [Purgar et al., 2024](https://doi.org/10.1038/s41559-024-02433-5) argue that inefficiencies in science render "85% of medical research [to have] limited or no value to the end user." 
+    
+    - One problem in Open Science is accurately and efficiently advising researchers when and how to comply with open data sharing policies with peer-reviewed journal articles. This not only goes against rapidly developing mandates on data sharing, but also penalizes researchers in terms of citations counts when not sharing data ([Colavizza et al., 2024](https://doi.org/10.1371/journal.pone.0311493)). A solution would reduce the time and costs associated with sharing research data as well as catalyze data and knowledge sharing to build an open science ecosystem. 
+    
+    - A second problem in Open Science is the time and labor required for manual peer review of scientific journal articles, which slow the scientific review process in addition to being costly. A solution would be to use tools that automate aspects of the peer-review process (see "automated screening" by [Schultz et al, 2022](https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-022-06080-6)) that highlight key missing data or poorly written narrative, for example, that could help to narrow the focus required by human reviewers. 
+    
+    - A third problem is that humans may forget to include key information or data along with their research publications (either as supplemental files or within the publications themselves) thereby being non-compliant with policies meant to promote sharing of any and all relevant (and permissible) data. A solution could be to use AI that more ably checks compliance for supplemental files (e.g., datasets, code and software, lab materials, and protocols) and recommends to researchers to correctly include such files prior to any research publication ([Dumanis et al., 2023](https://doi.org/10.1371/journal.pcbi.1011626)).
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
@@ -74,17 +80,7 @@
         - [iNLP by integra](https://integranxt.com/inlp-ai-language-assessment/): AI/NLP for reducing the time and effort for editing scholarly journal articles.
         - [editage by Cactus](https://www.editage.com/): AI writing and editing assistants primarily directed at researchers/authors to optimize writing for paper pre-submission and post-submission.
 
-    - It is highly likely that additional publishers, such as [Elsevier](https://www.elsevier.com/about/policies-and-standards/publishing-ethics-books/the-use-of-generative-ai-and-ai-assisted-technologies-in-the-editing-process), will either develop in-house solutions for AI to promote Open Science or partner with 3rd-party products and services, like DataSeer. DataSeer's partnerships with Taylor & Francis and IOP Publishing are examples of the latter. 
-
-## Results
-
-* What has been the business impact of this company so far?
-
-    - DataSeer seems to have been making inroads with, and having impact on, publishers and researchers. Funders and institutions may also be impacted. I could not find public data that indcate the degrees of business impact so far.
-
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-
-    - A primary core metric is gaining access to Open Science content through partnerships with key publishers who own the copyright to the content. Toward that, DataSeer has made made an inroad via its partnership with Taylor & Francis, one of the "big 5" publishers. Select partnerships that DataSeer lists on its website include:
+    - It is highly likely that additional publishers, such as [Elsevier](https://www.elsevier.com/about/policies-and-standards/publishing-ethics-books/the-use-of-generative-ai-and-ai-assisted-technologies-in-the-editing-process), will either develop in-house solutions for AI to promote Open Science or partner with 3rd-party products and services, like DataSeer. DataSeer's partnerships with Taylor & Francis and IOP Publishing are examples of the latter. Select partnerships that DataSeer lists on its website, which gives a sense as to 'major' organizatons in this field, include:
 
         - [American Association for the Advancement of Science (AAAS)](https://www.aaas.org/): The world's largest multidisciplinary scientific society and publisher of [Science](https://www.science.org/) and its related journals.
         
@@ -102,7 +98,17 @@
         
         - [Taylor & Francis](https://taylorandfrancis.com/): A world-leading publisher with content that serves customers across a variety of subjects and industries
 
-        - [The Royal Society](https://royalsociety.org/): A scientific academy and leading journal publisher
+        - [The Royal Society](https://royalsociety.org/): A scientific academy and leading journal publisher 
+
+## Results
+
+* What has been the business impact of this company so far?
+
+    - DataSeer seems to have been making inroads with, and having impact on, publishers and researchers. Funders and institutions may also be impacted. I could not find public data that indcate the degrees of business impact so far.
+
+* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+
+    - A primary core metric is gaining access to Open Science content through partnerships with key publishers who own the copyright to the content. Toward that, DataSeer has made made an inroad via its partnership with Taylor & Francis, one of the "big 5" publishers. 
 
 * How is your company performing relative to competitors in the same field?
 
@@ -139,6 +145,12 @@
 * DataSeer Repositories on Github [here](https://github.com/DataSeer) and [here](https://github.com/kermitt2/datastet)
 
 * [RELX Responsible Artificial Intelligence Principles](https://www.relx.com/~/media/Files/R/RELX-Group/documents/responsibility/download-center/relx-responsible-ai-principles.pdf?__hstc=126863762.5d7946ae9c81dd508daa6dbd050d4661.1731715533536.1731715533536.1731715533536.1&__hssc=126863762.1.1731715533536&__hsfp=3116597616)
+
+* [Open Science Indicators](https://plos.figshare.com/articles/dataset/PLOS_Open_Science_Indicators/21687686) include metadata from PLOS and non-PLOS datasets that inform Open Science activities. Further background is provided [here](https://theplosblog.plos.org/2023/10/open-science-indicators-q2-2023/).
+
+* [Charité Dashboard on Responsible Research](https://quest-dashboard.charite.de/#tabStart)
+
+* [The French Open Science Monitor](https://frenchopensciencemonitor.esr.gouv.fr/)
 
 ## Parking Lot
 
