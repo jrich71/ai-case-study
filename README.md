@@ -1,14 +1,14 @@
-# DataSeer: Using AI to Build a Better Open Science Ecosystem
+# DataSeer: Using AI to Build a Better Open Science Publication Ecosystem
 
 ## Overview and Origin
 
 * Name of company
 
-    - DataSeer (DataSeer Research Data Services Ltd)
+    - [DataSeer](https://dataseer.ai/) (DataSeer Research Data Services Ltd)
 
 * When was the company incorporated?
 
-    - [DataSeer](https://dataseer.ai/) was founded in 2019.
+    - [DataSeer](https://dataseer.ai/) was founded in 2019. It is incorporated in Vancouver, BC, Canada.
 
 * Who are the founders of the company?
 
@@ -25,7 +25,7 @@
 ## Business Activities
 
 * What specific problem is the company or project trying to solve?
-    - DataSeer (Vancouver, BC, Canada) is a small AI and Research Data Services company that promotes "Open Science" by [providing](https://dataseer.ai/about/), "low-cost, scalable solutions to measure open science, show researchers how to comply with policy, and deploy just-in-time interventions." One problem is accurately and efficiently advising researchers when and how to comply with open data sharing policies with peer-reviewed journal articles. A solution would reduce the time and costs associated with sharing research data as well as catalyze data and knowledge sharing to build an open science ecosystem. A second problem is the time and labor required for manual peer review of scientific journal articles, which slow the scientific review process in addition to being costly. A solution would be to use tools that automate aspects of the peer-review process (see "automated screening" by [Schultz et al, 2022](https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-022-06080-6)) that highlight key missing data or poorly written narrative, for example, that could help to narrow the focus required by human reviewers. A third problem is that humans may forget to include key information or data along with their research publications (either as supplemental files or within the publications themselves) thereby being non-compliant with policies meant to promote sharing of any and all relevant (and permissible) data. A solution could be to use AI that more ably checks compliance for supplemental files (e.g., datasets, code and software, lab materials, and protocols) and recommends to researchers to correctly include such files prior to any research publication ([Dumanis et al., 2023](https://doi.org/10.1371/journal.pcbi.1011626)).
+    - DataSeer is a small AI and Research Data Services company that promotes "Open Science" by [providing](https://dataseer.ai/about/), "low-cost, scalable solutions to measure open science, show researchers how to comply with policy, and deploy just-in-time interventions." One problem is accurately and efficiently advising researchers when and how to comply with open data sharing policies with peer-reviewed journal articles. A solution would reduce the time and costs associated with sharing research data as well as catalyze data and knowledge sharing to build an open science ecosystem. A second problem is the time and labor required for manual peer review of scientific journal articles, which slow the scientific review process in addition to being costly. A solution would be to use tools that automate aspects of the peer-review process (see "automated screening" by [Schultz et al, 2022](https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-022-06080-6)) that highlight key missing data or poorly written narrative, for example, that could help to narrow the focus required by human reviewers. A third problem is that humans may forget to include key information or data along with their research publications (either as supplemental files or within the publications themselves) thereby being non-compliant with policies meant to promote sharing of any and all relevant (and permissible) data. A solution could be to use AI that more ably checks compliance for supplemental files (e.g., datasets, code and software, lab materials, and protocols) and recommends to researchers to correctly include such files prior to any research publication ([Dumanis et al., 2023](https://doi.org/10.1371/journal.pcbi.1011626)).
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
@@ -136,7 +136,7 @@
 
 ## Additional Resources
 
-* DataSeer Repositories on [Github](https://github.com/DataSeer)
+* DataSeer Repositories on Github [here](https://github.com/DataSeer) and [here](https://github.com/kermitt2/datastet)
 
 * [RELX Responsible Artificial Intelligence Principles](https://www.relx.com/~/media/Files/R/RELX-Group/documents/responsibility/download-center/relx-responsible-ai-principles.pdf?__hstc=126863762.5d7946ae9c81dd508daa6dbd050d4661.1731715533536.1731715533536.1731715533536.1&__hssc=126863762.1.1731715533536&__hsfp=3116597616)
 
