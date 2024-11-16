@@ -1,8 +1,3 @@
-# ai-case-study
-Module 1 activity to create a case study for an AI company.
-
-Go to [this tutorial](https://code.visualstudio.com/docs/languages/markdown) for writing .md files in VSCode - Markdown and Visual Studio Code 
-
 # DataSeer: Using AI to Build a Better Open Science Ecosystem
 
 ## Overview and Origin
@@ -30,7 +25,7 @@ Go to [this tutorial](https://code.visualstudio.com/docs/languages/markdown) for
 ## Business Activities
 
 * What specific problem is the company or project trying to solve?
-    - DataSeer (Vancouver, BC, Canada) is a small AI and Research Data Services company that promotes "Open Science" by [providing](https://dataseer.ai/about/), "low-cost, scalable solutions to measure open science, show researchers how to comply with policy, and deploy just-in-time interventions." A key problem is accurately and efficiently advising researchers when and how to comply with open data sharing policies with peer-reviewed journal articles. A solution would reduce the time and costs associated with sharing research data as well as catalyze data and knowledge sharing to build an open science ecosystem. 
+    - DataSeer (Vancouver, BC, Canada) is a small AI and Research Data Services company that promotes "Open Science" by [providing](https://dataseer.ai/about/), "low-cost, scalable solutions to measure open science, show researchers how to comply with policy, and deploy just-in-time interventions." One problem is accurately and efficiently advising researchers when and how to comply with open data sharing policies with peer-reviewed journal articles. A solution would reduce the time and costs associated with sharing research data as well as catalyze data and knowledge sharing to build an open science ecosystem. A second problem is the time and labor required for manual peer review of scientific journal articles, which slow the scientific review process in addition to being costly. A solution would be to use tools that automate aspects of the peer-review process (see "automated screening" by [Schultz et al, 2022](https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-022-06080-6)) that highlight key missing data or poorly written narrative, for example, that could help to narrow the focus required by human reviewers. A third problem is that humans may forget to include key information or data along with their research publications (either as supplemental files or within the publications themselves) thereby being non-compliant with policies meant to promote sharing of any and all relevant (and permissible) data. A solution could be to use AI that more ably checks compliance for supplemental files (e.g., datasets, code and software, lab materials, and protocols) and recommends to researchers to correctly include such files prior to any research publication ([Dumanis et al., 2023](https://doi.org/10.1371/journal.pcbi.1011626)).
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
@@ -41,6 +36,8 @@ Go to [this tutorial](https://code.visualstudio.com/docs/languages/markdown) for
         - Wiley ($114.3 million)
         - Taylor & Francis ($76.8 million)
         - Sage ($31.6 million)
+
+    - Individual journals as well as academic institutions could be intended customers (although they may well be secondary given their budgets and resources often don't match those of the largest publishers).
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
@@ -62,11 +59,13 @@ Go to [this tutorial](https://code.visualstudio.com/docs/languages/markdown) for
 
 * What field is the company in?
 
-    - The field is an intersection of scholarly publishing, research and development, and technology. Terms that are used to describe this intersection, and nascent industry include, "Research Data Management (RDM)" and "Scholarly Communication" ([citation](https://doi.org/10.1080/13614533.2021.1964549)). These fields fall within a broader global movement for [Open Science](https://en.wikipedia.org/wiki/Open_science#/media/File:UNESCO-Open_science-pillars-en.png).
+    - The field is an intersection of scholarly publishing, research and development, and technology. Terms that are used to describe this intersection, and nascent industry include, "Research Data Management (RDM)" and "Scholarly Communication" ([Andrikopoulou, Rowley, & Walton, 2021](https://doi.org/10.1080/13614533.2021.1964549)). These fields fall within a broader global movement for Open Science. Using the [UNESCO figure below](https://doi.org/10.54677/MNMH8546), RDM and Scholarly Communication arguably fall best into the categories of "Open Scientific Knowledge" and "Open Scientific Infrastructures".
+
+    ![4 Pillars](UNESCO-Open_science-pillars-en.png)
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
 
-    - More broadly, Open Science is a field that has grown over the last 10 years due to interlocking factors including: [local-to-global policy initiatives](https://doi.org/10.54677/MNMH8546) aimed at democratizing access to research knowledge and data; pushback to [peristent price increases for research journals](https://library.missouri.edu/news/lottes-health-sciences-library/scholarly-publishing-and-the-health-sciences-library#:~:text=The%20health%20sciences%20have%20been,of%20Missouri%20system%20pays%20now.&text=Why%20are%20journal%20prices%20increasing,bring%20journal%20prices%20under%20control.); and industry recognition that [Open Science may be good for business](https://www.weforum.org/stories/2023/11/open-science-6-reasons-businesses-should-pay-attention/). Yet less is known as to the size and scope of growth for either aspects of Open Science, RDM or Scholarly Communication.
+    - More broadly, Open Science is a field that has grown over the last 10 years due to interlocking factors including: [federal](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/breakthroughs-for-alldelivering-equitable-access-to-americas-research/) to [global](https://doi.org/10.54677/MNMH8546) policy initiatives aimed at democratizing access to research knowledge and data; pushback to [peristent price increases for research journals](https://library.missouri.edu/news/lottes-health-sciences-library/scholarly-publishing-and-the-health-sciences-library#:~:text=The%20health%20sciences%20have%20been,of%20Missouri%20system%20pays%20now.&text=Why%20are%20journal%20prices%20increasing,bring%20journal%20prices%20under%20control.); and industry recognition that [Open Science may be good for business](https://www.weforum.org/stories/2023/11/open-science-6-reasons-businesses-should-pay-attention/). Yet less is known as to the size and scope of growth for either aspects of Open Science, RDM or Scholarly Communication.
 
 * What are the other major companies in this field?
 
@@ -85,7 +84,25 @@ Go to [this tutorial](https://code.visualstudio.com/docs/languages/markdown) for
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
-    - A primary core metric is gaining access to Open Science content through partnerships with key publishers who own the copyright to the content. Toward that, DataSeer has made made an inroad via its partnership with Taylor & Francis, one of the "big 5" publishers.
+    - A primary core metric is gaining access to Open Science content through partnerships with key publishers who own the copyright to the content. Toward that, DataSeer has made made an inroad via its partnership with Taylor & Francis, one of the "big 5" publishers. Select partnerships that DataSeer lists on its website include:
+
+        - [American Association for the Advancement of Science (AAAS)](https://www.aaas.org/): The world's largest multidisciplinary scientific society and publisher of [Science](https://www.science.org/) and its related journals.
+        
+        - [Coko Foundation](https://coko.foundation/): A not-for-profit dedicated to building open source solutions and community that promotes open publishing
+        
+        - [IOP Publishing](https://ioppublishing.org/): Publisher of leading scientific journals such as IOPscience
+        
+        - [KnowledgeWorks Global Ltd.](https://www.kwglobal.com/): A consulting company that provides a variety of content management services including editing and peer review
+        
+        - [Kriyadocs](https://www.kriyadocs.com/): Provider of solutions for publishing journals and books, which lists as its partners such leading organizations as Sage and BMJ
+        
+        - [Origin](https://origineditorial.com/): A technology and service consulting company that helps clients with editing and managing aspects of peer review publication
+
+        - [PLOS](https://plos.org/): Groundbreaking publisher of open science research since 2001
+        
+        - [Taylor & Francis](https://taylorandfrancis.com/): A world-leading publisher with content that serves customers across a variety of subjects and industries
+
+        - [The Royal Society](https://royalsociety.org/): A scientific academy and leading journal publisher
 
 * How is your company performing relative to competitors in the same field?
 
@@ -95,13 +112,27 @@ Go to [this tutorial](https://code.visualstudio.com/docs/languages/markdown) for
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
-    - 
+    - Use unsupervised AI to suggest reseach gaps that one or more journals could address via special issues and/or calls for publication.
+
+    - Use unsupervised AI to develop new ways of measuring research impact, such as by analyzing journal/publication metadata along with social media data.
 
 * Why do you think that offering this product or service would benefit the company?
 
+    - Use unsupervised AI to suggest reseach gaps that one or more journals could address via special issues and/or calls for publication.
+    
+        - AI could identify missing, new, or understudied subject areas based on published articles (or not) and make suggestions that help editors plan for future publications that address important, but underaddressed, areas of study and better engage existing or new audiences.
+    
+    - Use unsupervised AI to develop new ways of measuring research impact, such as by analyzing journal/publication metadata along with social media data.
+
+        - AI could drive a fuller yet more nuanced view about the influcences particular research may be having among more varied audiences. This in turn could inform journals about audience engagement or development strategies, as well as help authors by more accurately determining the impact their work has.
+
 * What technologies would this additional product or service utilize?
 
+    - <mark>I'm unclear what's being asked here. Data + NLP?</mark>
+
 * Why are these technologies appropriate for your solution?
+
+    - <mark>I'm still unclear what's being asked here. How would I determine what technolgy/ies the company would need to build hypothetical products?</mark>
 
 ## Additional Resources
 
@@ -109,7 +140,9 @@ Go to [this tutorial](https://code.visualstudio.com/docs/languages/markdown) for
 
 * [RELX Responsible Artificial Intelligence Principles](https://www.relx.com/~/media/Files/R/RELX-Group/documents/responsibility/download-center/relx-responsible-ai-principles.pdf?__hstc=126863762.5d7946ae9c81dd508daa6dbd050d4661.1731715533536.1731715533536.1731715533536.1&__hssc=126863762.1.1731715533536&__hsfp=3116597616)
 
-* ![4 Pillars](UNESCO-Open_science-pillars-en.png)
+## Parking Lot
+
+Go to [this tutorial](https://code.visualstudio.com/docs/languages/markdown) for writing .md files in VSCode - Markdown and Visual Studio Code 
 
 
 
