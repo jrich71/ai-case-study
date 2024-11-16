@@ -109,6 +109,8 @@ Go to [this tutorial](https://code.visualstudio.com/docs/languages/markdown) for
 
 * [RELX Responsible Artificial Intelligence Principles](https://www.relx.com/~/media/Files/R/RELX-Group/documents/responsibility/download-center/relx-responsible-ai-principles.pdf?__hstc=126863762.5d7946ae9c81dd508daa6dbd050d4661.1731715533536.1731715533536.1731715533536.1&__hssc=126863762.1.1731715533536&__hsfp=3116597616)
 
+* ![4 Pillars](UNESCO-Open_science-pillars-en.png)
+
 
 
 
