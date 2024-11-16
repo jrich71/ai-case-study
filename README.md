@@ -20,7 +20,7 @@
 
 * How is the company funded? How much funding have they received?
 
-    - DataSeer was initially funded by a grant from the Sloan Foundation. It's unclear yet what other funding sources support the company. Recently, though, DataSeer has [partnered with the research publisher, Taylor & Francis](https://dataseer.ai/2024/10/14/taylor-francis-and-dataseer-to-collaborate-in-data-sharing-compliance-checks-and-open-science-metrics-pilots/) and [IOP Publishing](https://dataseer.ai/2024/02/26/dataseer-ai-and-iop-publishing-collaborate-on-open-science-indicators-and-open-data-pilot/).
+    - DataSeer was initially funded by a grant from the Sloan Foundation. It's unclear yet what other funding sources support the company.
 
 ## Business Activities
 
@@ -104,7 +104,7 @@
 
 * What has been the business impact of this company so far?
 
-    - DataSeer seems to have been making inroads with, and having impact on, publishers and researchers. Funders and institutions may also be impacted. I could not find public data that indcate the degrees of business impact so far.
+    - DataSeer seems to have been making inroads with, and having impact on, publishers and researchers. Funders and institutions may also be impacted. I could not find public data that indcate the degrees of business impact so far. Recently, DataSeer has [partnered with the research publisher, Taylor & Francis](https://dataseer.ai/2024/10/14/taylor-francis-and-dataseer-to-collaborate-in-data-sharing-compliance-checks-and-open-science-metrics-pilots/) and [IOP Publishing](https://dataseer.ai/2024/02/26/dataseer-ai-and-iop-publishing-collaborate-on-open-science-indicators-and-open-data-pilot/) (among others).
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
