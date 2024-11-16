@@ -20,7 +20,7 @@
 
 * How is the company funded? How much funding have they received?
 
-    - DataSeer was initially funded by a grant from the Sloan Foundation. It's unclear yet what other funding sources support the company.
+    - DataSeer was initially funded by a grant from the Sloan Foundation. Other than through business partnerships and grant funding, it's unclear yet what other funding sources support the company.
 
 ## Business Activities
 
@@ -47,7 +47,7 @@
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-    - DataSeer offers three AI-driven products that enable a more data-driven open science ecosystem, which benefits from enhanced compliance, quality checking, and measurement tools for achieving rigor and incresed impact in research:
+    - DataSeer is one of [Outsell's Emerging 50 for 2023](https://blog.outsellinc.com/announcing-outsells-emerging-50-of-2023-274ffff04221) that offers three AI-driven products enabling a more data-driven Open Science ecosystem, which benefits from enhanced compliance, quality checking, and measurement tools for achieving rigor and incresed impact in research:
 
         - [Compliance Checks](https://dataseer.ai/compliance-checks/): Using AI to verify whether peer-review manuscripts (and data products?) are aligned with publishing policies. 
 
