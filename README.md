@@ -25,7 +25,11 @@
 ## Business Activities
 
 * What specific problem is the company or project trying to solve?
-    - DataSeer is a small AI and Research Data Services company that promotes "Open Science" by [providing](https://dataseer.ai/about/), "low-cost, scalable solutions to measure open science, show researchers how to comply with policy, and deploy just-in-time interventions." The problems are multi-faceted with factors related to Open Science policy, infrastucture, and workflows ([Iarkaeva et al., 2024](https://doi.org/10.1371/journal.pone.0302787)). More broadly, [Purgar et al., 2024](https://doi.org/10.1038/s41559-024-02433-5) argue that inefficiencies in science render "85% of medical research [to have] limited or no value to the end user." 
+    - DataSeer is a small AI and Research Data Services company that promotes "Open Science" by [providing](https://dataseer.ai/about/):
+    
+    >>>>>>"low-cost, scalable solutions to measure open science, show researchers how to comply with policy, and deploy just-in-time interventions." 
+    
+    >>>The problems are multi-faceted with factors related to Open Science policy, infrastucture, and workflows ([Iarkaeva et al., 2024](https://doi.org/10.1371/journal.pone.0302787)). More broadly, [Purgar et al., 2024](https://doi.org/10.1038/s41559-024-02433-5) argue that inefficiencies in science render "85% of medical research [to have] limited or no value to the end user." 
     
     - One problem in Open Science is accurately and efficiently advising researchers when and how to comply with open data sharing policies with peer-reviewed journal articles. This not only goes against rapidly developing mandates on data sharing, but also penalizes researchers in terms of citations counts when not sharing data ([Colavizza et al., 2024](https://doi.org/10.1371/journal.pone.0311493)). A solution would reduce the time and costs associated with sharing research data as well as catalyze data and knowledge sharing to build an open science ecosystem. 
     
@@ -151,6 +155,20 @@
 * [Charité Dashboard on Responsible Research](https://quest-dashboard.charite.de/#tabStart)
 
 * [The French Open Science Monitor](https://frenchopensciencemonitor.esr.gouv.fr/)
+
+## Citations
+
+Bobrov, E., Riedel, N., & Kip, M. (2024). Operationalizing open and restricted-access data—Formulating verifiable criteria for the openness of data sets mentioned in biomedical research articles. Quantitative Science Studies, 5(2), 383–407. https://doi.org/10.1162/qss_a_00301
+
+Colavizza, G., Cadwallader, L., LaFlamme, M., Dozot, G., Lecorney, S., Rappo, D., & Hrynaszkiewicz, I. (2024). An analysis of the effects of sharing research data, code, and preprints on citations. PLoS ONE, 19(10 October). https://doi.org/10.1371/journal.pone.0311493
+
+Dumanis, S. B., Ratan, K., McIntosh, S., Shah, H. V., Lewis, M., Vines, T. H., Schekman, R., & Riley, E. A. (2023). From policy to practice: Lessons learned from an open science funding initiative. PLoS Computational Biology, 19(12). https://doi.org/10.1371/journal.pcbi.1011626
+
+Iarkaeva, A., Nachev, V., & Bobrov, E. (2024). Workflow for detecting biomedical articles with underlying open and restricted-access datasets. PLoS ONE, 19(5 May). https://doi.org/10.1371/journal.pone.0302787
+
+Purgar, M., Glasziou, P., Klanjscek, T., Nakagawa, S., & Culina, A. (2024). Supporting study registration to reduce research waste. Nature Ecology and Evolution, 8(8), 1391–1399. https://doi.org/10.1038/s41559-024-02433-5
+
+Schulz, R., Barnett, A., Bernard, R., Brown, N. J. L., Byrne, J. A., Eckmann, P., Gazda, M. A., Kilicoglu, H., Prager, E. M., Salholz-Hillel, M., ter Riet, G., Vines, T., Vorland, C. J., Zhuang, H., Bandrowski, A., & Weissgerber, T. L. (2022). Is the future of peer review automated? BMC Research Notes, 15(1). https://doi.org/10.1186/s13104-022-06080-6
 
 ## Parking Lot
 
