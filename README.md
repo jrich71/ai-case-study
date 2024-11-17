@@ -25,11 +25,9 @@
 ## Business Activities
 
 * What specific problem is the company or project trying to solve?
-    - DataSeer is a small AI and Research Data Services company that promotes "Open Science" by [providing](https://dataseer.ai/about/):
+    - DataSeer is a small AI and Research Data Services company addressing Open Science problems that are multi-faceted with factors related to policy, infrastucture, and workflows ([Iarkaeva et al., 2024](https://doi.org/10.1371/journal.pone.0302787)). In the science field more broadly, [Purgar et al., 2024](https://doi.org/10.1038/s41559-024-02433-5) argue that inefficiencies in science render "85% of medical research [to have] limited or no value to the end user." DataSeer promotes "Open Science" through [providing](https://dataseer.ai/about/):
     
-    >>>>>>"low-cost, scalable solutions to measure open science, show researchers how to comply with policy, and deploy just-in-time interventions." 
-    
-    >>>The problems are multi-faceted with factors related to Open Science policy, infrastucture, and workflows ([Iarkaeva et al., 2024](https://doi.org/10.1371/journal.pone.0302787)). More broadly, [Purgar et al., 2024](https://doi.org/10.1038/s41559-024-02433-5) argue that inefficiencies in science render "85% of medical research [to have] limited or no value to the end user." 
+    >"low-cost, scalable solutions to measure open science, show researchers how to comply with policy, and deploy just-in-time interventions." 
     
     - One problem in Open Science is accurately and efficiently advising researchers when and how to comply with open data sharing policies with peer-reviewed journal articles. This not only goes against rapidly developing mandates on data sharing, but also penalizes researchers in terms of citations counts when not sharing data ([Colavizza et al., 2024](https://doi.org/10.1371/journal.pone.0311493)). A solution would reduce the time and costs associated with sharing research data as well as catalyze data and knowledge sharing to build an open science ecosystem. 
     
