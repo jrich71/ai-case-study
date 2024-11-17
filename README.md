@@ -29,6 +29,8 @@
     
     >"low-cost, scalable solutions to measure open science, show researchers how to comply with policy, and deploy just-in-time interventions." 
     
+    <br>
+    
     - One problem in Open Science is accurately and efficiently advising researchers when and how to comply with open data sharing policies with peer-reviewed journal articles. This not only goes against rapidly developing mandates on data sharing, but also penalizes researchers in terms of citations counts when not sharing data ([Colavizza et al., 2024](https://doi.org/10.1371/journal.pone.0311493)). A solution would reduce the time and costs associated with sharing research data as well as catalyze data and knowledge sharing to build an open science ecosystem. 
     
     - A second problem in Open Science is the time and labor required for manual peer review of scientific journal articles, which slow the scientific review process in addition to being costly. A solution would be to use tools that automate aspects of the peer-review process (see "automated screening" by [Schultz et al, 2022](https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-022-06080-6)) that highlight key missing data or poorly written narrative, for example, that could help to narrow the focus required by human reviewers. 
