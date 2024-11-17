@@ -26,6 +26,8 @@
 
 * What specific problem is the company or project trying to solve?
     - DataSeer is a small AI and Research Data Services company addressing Open Science problems that are multi-faceted with factors related to policy, infrastucture, and workflows ([Iarkaeva et al., 2024](https://doi.org/10.1371/journal.pone.0302787)). In the science field more broadly, [Purgar et al., 2024](https://doi.org/10.1038/s41559-024-02433-5) argue that inefficiencies in science render "85% of medical research [to have] limited or no value to the end user." DataSeer promotes "Open Science" through [providing](https://dataseer.ai/about/):
+
+    <!---Below I used a code block format (```) instead of block quote format (>) because block quote formatting was doing weird spacing.-->
     
     ```"low-cost, scalable solutions to measure open science, show researchers how to comply with policy, and deploy just-in-time interventions."``` 
     
