@@ -158,7 +158,11 @@
 
 ## Citations
 
+Andrikopoulou, A., Rowley, J., & Walton, G. (2022). Research Data Management (RDM) and the Evolving Identity of Academic Libraries and Librarians: A Literature Review. New Review of Academic Librarianship, 28(4), 349–365. https://doi.org/10.1080/13614533.2021.1964549
+
 Bobrov, E., Riedel, N., & Kip, M. (2024). Operationalizing open and restricted-access data—Formulating verifiable criteria for the openness of data sets mentioned in biomedical research articles. Quantitative Science Studies, 5(2), 383–407. https://doi.org/10.1162/qss_a_00301
+
+Butler, L.-A., Matthias, L., Simard, M.-A., Mongeon, P., & Haustein, S. (2023). The oligopoly’s shift to open access: How the big five academic publishers profit from article processing charges. Quantitative Science Studies, 1–22. https://doi.org/10.1162/qss_a_00272
 
 Colavizza, G., Cadwallader, L., LaFlamme, M., Dozot, G., Lecorney, S., Rappo, D., & Hrynaszkiewicz, I. (2024). An analysis of the effects of sharing research data, code, and preprints on citations. PLoS ONE, 19(10 October). https://doi.org/10.1371/journal.pone.0311493
 
@@ -169,6 +173,7 @@ Iarkaeva, A., Nachev, V., & Bobrov, E. (2024). Workflow for detecting biomedical
 Purgar, M., Glasziou, P., Klanjscek, T., Nakagawa, S., & Culina, A. (2024). Supporting study registration to reduce research waste. Nature Ecology and Evolution, 8(8), 1391–1399. https://doi.org/10.1038/s41559-024-02433-5
 
 Schulz, R., Barnett, A., Bernard, R., Brown, N. J. L., Byrne, J. A., Eckmann, P., Gazda, M. A., Kilicoglu, H., Prager, E. M., Salholz-Hillel, M., ter Riet, G., Vines, T., Vorland, C. J., Zhuang, H., Bandrowski, A., & Weissgerber, T. L. (2022). Is the future of peer review automated? BMC Research Notes, 15(1). https://doi.org/10.1186/s13104-022-06080-6
+
 
 ## Parking Lot
 
