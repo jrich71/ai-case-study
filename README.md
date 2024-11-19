@@ -1,4 +1,4 @@
-# DataSeer: Using AI to Build a Better Open Science Publication Ecosystem
+# DataSeer: Using AI to Build a Better Open Science Publication Ecosystem <mark>DRAFT</mark>
 
 ## Overview and Origin
 
@@ -75,7 +75,7 @@
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
 
-    - More broadly, Open Science is a field that has grown over the last 10 years due to interlocking factors including: [federal](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/breakthroughs-for-alldelivering-equitable-access-to-americas-research/) to [global](https://doi.org/10.54677/MNMH8546) policy initiatives aimed at democratizing access to research knowledge and data; pushback to [peristent price increases for research journals](https://library.missouri.edu/news/lottes-health-sciences-library/scholarly-publishing-and-the-health-sciences-library#:~:text=The%20health%20sciences%20have%20been,of%20Missouri%20system%20pays%20now.&text=Why%20are%20journal%20prices%20increasing,bring%20journal%20prices%20under%20control.); and industry recognition that [Open Science may be good for business](https://www.weforum.org/stories/2023/11/open-science-6-reasons-businesses-should-pay-attention/). Yet less is known as to the size and scope of growth for either aspects of Open Science, RDM or Scholarly Communication.
+    - More broadly, Open Science is a field that has grown over the last 10 years due to interlocking factors including: [federal](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/breakthroughs-for-alldelivering-equitable-access-to-americas-research/) to [global](https://doi.org/10.54677/MNMH8546) policy initiatives aimed at democratizing access to research knowledge and data; pushback to [peristent price increases for research journals](https://library.missouri.edu/news/lottes-health-sciences-library/scholarly-publishing-and-the-health-sciences-library#:~:text=The%20health%20sciences%20have%20been,of%20Missouri%20system%20pays%20now.&text=Why%20are%20journal%20prices%20increasing,bring%20journal%20prices%20under%20control.); and industry recognition that [Open Science may be good for business](https://www.weforum.org/stories/2023/11/open-science-6-reasons-businesses-should-pay-attention/). Yet less is known as to the size and scope of growth for aspects of Open Science, RDM, or Scholarly Communication.
 
 * What are the other major companies in this field?
 
