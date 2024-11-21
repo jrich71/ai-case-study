@@ -175,10 +175,4 @@ Purgar, M., Glasziou, P., Klanjscek, T., Nakagawa, S., & Culina, A. (2024). Supp
 Schulz, R., Barnett, A., Bernard, R., Brown, N. J. L., Byrne, J. A., Eckmann, P., Gazda, M. A., Kilicoglu, H., Prager, E. M., Salholz-Hillel, M., ter Riet, G., Vines, T., Vorland, C. J., Zhuang, H., Bandrowski, A., & Weissgerber, T. L. (2022). Is the future of peer review automated? BMC Research Notes, 15(1). https://doi.org/10.1186/s13104-022-06080-6
 
 
-## Parking Lot
-
-Go to [this tutorial](https://code.visualstudio.com/docs/languages/markdown) for writing .md files in VSCode - Markdown and Visual Studio Code 
-
-
-
 
