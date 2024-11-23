@@ -1,4 +1,4 @@
-# DataSeer: Using AI to Build a Better Open Science Publication Ecosystem <mark>DRAFT</mark>
+# DataSeer: Using AI to Build a Better Open Science Publication Ecosystem
 
 ## Overview and Origin
 
@@ -27,9 +27,9 @@
 * What specific problem is the company or project trying to solve?
     - DataSeer is a small AI and Research Data Services company addressing Open Science problems that are multi-faceted with factors related to policy, infrastucture, and workflows ([Iarkaeva et al., 2024](https://doi.org/10.1371/journal.pone.0302787)). In the science field more broadly, [Purgar et al., 2024](https://doi.org/10.1038/s41559-024-02433-5) argue that inefficiencies in science render "85% of medical research [to have] limited or no value to the end user." DataSeer promotes "Open Science" through [providing](https://dataseer.ai/about/):
 
-    <!---Below I used a code block format (```) instead of block quote format (>) because block quote formatting was doing weird spacing.-->
+    <!---I'm including block quote format per the assignment's requirement, yet for nicer looking formatting, I would've gone with code block formatting (```) instead -->
     
-    ```"low-cost, scalable solutions to measure open science, show researchers how to comply with policy, and deploy just-in-time interventions."``` 
+    > "low-cost, scalable solutions to measure open science, show researchers how to comply with policy, and deploy just-in-time interventions."
     
     - One problem in Open Science is accurately and efficiently advising researchers when and how to comply with open data sharing policies with peer-reviewed journal articles. This not only goes against rapidly developing mandates on data sharing, but also penalizes researchers in terms of citations counts when not sharing data ([Colavizza et al., 2024](https://doi.org/10.1371/journal.pone.0311493)). A solution would reduce the time and costs associated with sharing research data as well as catalyze data and knowledge sharing to build an open science ecosystem. 
     
@@ -79,7 +79,9 @@
 
 * What are the other major companies in this field?
 
-    - Online searches have not found direct competitors yet did find a host of AI-related companies in related spaces:
+    - [SciScore](https://sciscore.com/) by the company, [SciCrunch](https://www.scicrunch.com/), is the closest competitor to DataSeer. SciScore provides a Rigor & Transparency Index (RTI) with which users can generate reports on research articles' rigor and transparency. 
+    
+    - Online searches have not found additional direct competitors yet genearate a host of AI-related companies in related spaces:
         - [Kopernio](https://ir.clarivate.com/news-events/press-releases/news-details/2018/Clarivate-Analytics-Acquires-Research-Startup-Kopernio-to-Accelerate-Pace-of-Scientific-Innovation/default.aspx) (acquired by Clarivate, 2018): AI that enables 1-click access to scholarly journals within institutional (academic) paywalls/firewalls as well as publicly available research.
         - [iNLP by integra](https://integranxt.com/inlp-ai-language-assessment/): AI/NLP for reducing the time and effort for editing scholarly journal articles.
         - [editage by Cactus](https://www.editage.com/): AI writing and editing assistants primarily directed at researchers/authors to optimize writing for paper pre-submission and post-submission.
@@ -112,11 +114,13 @@
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
-    - A primary core metric is gaining access to Open Science content through partnerships with key publishers who own the copyright to the content. Toward that, DataSeer has made made an inroad via its partnership with Taylor & Francis, one of the "big 5" publishers. 
+    - DataSeer is gaining access to Open Science content through partnerships with key publishers who own the copyright to the content. Toward that, DataSeer has made made an inroad via its partnership with Taylor & Francis, one of the "big 5" publishers. 
+
+    - Beyond core business metrics around sales and operations, DataSeer uses internally generated error reporting for continuous quality improvement. For example, reports can include false positives and false negatives as to whether recommended datasets are to be included with journal article submissions. Errors may result from formatting issues such as URLs extending over line breaks or faulty accession numbering. Yet care must be taken so as to not overfit its proprietary models such that they cannot reliably account for the variability among formatting differences in real-world articles.
 
 * How is your company performing relative to competitors in the same field?
 
-    - The data are lacking, particularly since DataSeer sits in such a niche market. There seem to be few players, let alone commercial, in this space.
+    - The data are lacking, particularly since DataSeer sits in such a niche market. There seem to be few players, let alone commercial, in this space. Only [SciScore](https://sciscore.com/) is a direct competitor. 
 
 ## Recommendations
 
@@ -138,23 +142,23 @@
 
 * What technologies would this additional product or service utilize?
 
-    - <mark>I'm unclear what's being asked here. Data + NLP?</mark>
+    - The product(s) would need to incorporate NLP and LLMs applied to relevant data streams and/or datasets.
 
 * Why are these technologies appropriate for your solution?
 
-    - <mark>I'm still unclear what's being asked here. How would I determine what technolgy/ies the company would need to build hypothetical products?</mark>
+    - The technologies would enable the processing of real-world text as per the relevant data streams and/or datasets.
 
 ## Additional Resources
 
 * DataSeer Repositories on Github [here](https://github.com/DataSeer) and [here](https://github.com/kermitt2/datastet)
 
-* [RELX Responsible Artificial Intelligence Principles](https://www.relx.com/~/media/Files/R/RELX-Group/documents/responsibility/download-center/relx-responsible-ai-principles.pdf?__hstc=126863762.5d7946ae9c81dd508daa6dbd050d4661.1731715533536.1731715533536.1731715533536.1&__hssc=126863762.1.1731715533536&__hsfp=3116597616)
+* [Charité Dashboard on Responsible Research](https://quest-dashboard.charite.de/#tabStart)
+
+* [French Open Science Monitor](https://frenchopensciencemonitor.esr.gouv.fr/)
 
 * [Open Science Indicators](https://plos.figshare.com/articles/dataset/PLOS_Open_Science_Indicators/21687686) include metadata from PLOS and non-PLOS datasets that inform Open Science activities. Further background is provided [here](https://theplosblog.plos.org/2023/10/open-science-indicators-q2-2023/).
 
-* [Charité Dashboard on Responsible Research](https://quest-dashboard.charite.de/#tabStart)
-
-* [The French Open Science Monitor](https://frenchopensciencemonitor.esr.gouv.fr/)
+* [RELX Responsible Artificial Intelligence Principles](https://www.relx.com/~/media/Files/R/RELX-Group/documents/responsibility/download-center/relx-responsible-ai-principles.pdf?__hstc=126863762.5d7946ae9c81dd508daa6dbd050d4661.1731715533536.1731715533536.1731715533536.1&__hssc=126863762.1.1731715533536&__hsfp=3116597616)
 
 ## Citations
 
